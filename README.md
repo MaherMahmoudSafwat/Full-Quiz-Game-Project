@@ -12,7 +12,7 @@ Hard: Challenging questions that test advanced knowledge and problem-solving ski
 Question Types:
 
 Multiple Choice: Questions with multiple answer options, where only one answer is correct.
-Scoring System: Points are awarded for each correct answer, with more points given for harder questions. The final score is displayed at the end of the quiz.
+Scoring System: Points are awarded for each correct answer. The final score is displayed at the end of the quiz.
 
 User Feedback: After each question, immediate feedback is provided to let the user know whether their answer was correct or not.
 
